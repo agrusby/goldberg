@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\button.cs" />
      <Compile Include="Assets\scripts\destroy.cs" />
+     <Compile Include="Assets\scripts\restART.cs" />
      <Compile Include="Assets\scripts\robomove.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>

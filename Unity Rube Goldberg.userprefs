@@ -1,10 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\button.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Platformer\Assets\character.cs">
     <Files>
-      <File FileName="Assets\destroy.cs" Line="7" Column="22" />
-      <File FileName="..\Unity Garden Homework\Assets\generator.cs" Line="1" Column="1" />
-      <File FileName="Assets\button.cs" Line="21" Column="1" />
+      <File FileName="..\Platformer\Assets\character.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
